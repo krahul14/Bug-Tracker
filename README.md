@@ -2,7 +2,6 @@
 
 A comprehensive bug and task tracking application built with Next.js, featuring role-based authentication, time tracking, and advanced task management capabilities.
 
-![Bug Tracker](C:\Users\krahu\Desktop\project\main-image.png)
 
 ## 🚀 Features
 
