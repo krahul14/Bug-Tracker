@@ -1,8 +1,8 @@
-# Bug Tracker Pro
+# Bug Tracker
 
 A comprehensive bug and task tracking application built with Next.js, featuring role-based authentication, time tracking, and advanced task management capabilities.
 
-![Bug Tracker](\main-image.png)
+![Bug Tracker](C:\Users\krahu\Desktop\project\main-image.png)
 
 ## 🚀 Features
 
