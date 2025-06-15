@@ -45,12 +45,12 @@ const navigation = [
     icon: Clock,
     roles: ['developer', 'manager'],
   },
-  {
-    name: 'Analytics',
-    href: '/analytics',
-    icon: BarChart3,
-    roles: ['manager'],
-  },
+  // {
+  //   name: 'Analytics',
+  //   href: '/analytics',
+  //   icon: BarChart3,
+  //   roles: ['manager'],
+  // },
 ];
 
 export default function Sidebar() {
